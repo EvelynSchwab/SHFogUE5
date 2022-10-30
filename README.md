@@ -1,1 +1,1 @@
-Simple silent hill - esque fog effects made in UE5
+A volumetric fog effect based on the silent hill games
